@@ -21,10 +21,10 @@ End-to-end retail analytics using R, including:
 
 [View Project](https://github.com/angelynes/Retail-Sales-and-Demand-Analysis)
 
-### Nova
+### Aurea
 A responsive personal productivity and planning web application combining tasks, projects, routines, calendars, and cloud synchronization.
 
-[View Project](https://github.com/angelynes/nova)
+[View Project](https://github.com/angelynes/Aurea)
 
 ## 🎓 Education
 
