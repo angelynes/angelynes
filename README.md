@@ -4,7 +4,7 @@ I'm a recent UCLA graduate with a B.S. in Statistics and Data Science, intereste
 
 My background combines technical analysis with hands-on business experience. I enjoy using data to understand real business problems, improve workflows, and support better decisions.
 
-## 📊 Projects
+## 📊 Side Projects
 
 **[Aurea](https://github.com/angelynes/Aurea)** (web app) 
 A planner that puts my tasks, projects, habits, and calendar in one place and syncs between my laptop and phone. I designed it, built it with AI-assisted coding, and have been improving it based on my own daily use. [Try it here](https://my-aurea-planner.vercel.app/)
