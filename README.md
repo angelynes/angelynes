@@ -4,36 +4,23 @@ I'm a recent UCLA graduate with a B.S. in Statistics and Data Science, intereste
 
 My background combines technical analysis with hands-on business experience. I enjoy using data to understand real business problems, improve workflows, and support better decisions.
 
-## 🛠 Skills
+## 📊 Projects
 
-**Data & Analytics:** SQL, Python, R, Tableau, Excel, Power Query  
-**Programming:** C++, MATLAB, HTML, CSS  
-**Tools:** RStudio, VS Code, Microsoft 365, Google Workspace, Figma
+**[Aurea](https://github.com/angelynes/Aurea)** (web app) 
+A planner that puts my tasks, projects, habits, and calendar in one place and syncs between my laptop and phone. I designed it, built it with AI-assisted coding, and have been improving it based on my own daily use. [Try it here](https://my-aurea-planner.vercel.app/)
 
-## 📊 Featured Projects
+**Operations Dashboard** (coming soon)
+A demo version of the forecasting and sales dashboard from my analyst role, using sample data. 
 
-### Retail Sales & Demand Analysis
-End-to-end retail analytics using R, including:
-- ARIMA demand forecasting
-- Apriori market basket analysis
-- RFM customer segmentation
-- Inventory and customer insights
+## 🛠 Tools I Use 
 
-[View Project](https://github.com/angelynes/Retail-Sales-and-Demand-Analysis)
-
-### Aurea
-A responsive personal productivity and planning web application combining tasks, projects, routines, calendars, and cloud synchronization.
-
-[View Project](https://github.com/angelynes/Aurea)
+SQL, Python, R, Excel, Power Query, Tableau 
+Also some C++, MATLAB, HTML/CSS, and Figma 
 
 ## 🎓 Education
 
-**University of California, Los Angeles**  
-B.S. Statistics and Data Science
-
-**Diablo Valley College**  
-A.D.T. Economics and Mathematics
+**University of California, Los Angeles**: B.S. Statistics and Data Science 
 
 ## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/angelyne-susanto/) • [GitHub](https://github.com/angelynes)
+I'd love to connect, especially if your team is hiring! 
+[LinkedIn](https://www.linkedin.com/in/angelyne-susanto/) • [angelynesusanto@gmail.com](mailto:angelynesusanto@gmail.com)
